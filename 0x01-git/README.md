@@ -1,2 +1,1 @@
-My first readme
-Hello ALX
+Hello ALX. My first readme
